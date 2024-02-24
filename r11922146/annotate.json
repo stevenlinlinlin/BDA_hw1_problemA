@@ -1,0 +1,106 @@
+{
+    "BDA_hw1_A_Messenger.mp4": [
+        {
+            "start_frame": 74,
+            "end_frame": 127,
+            "action_type": "click",
+            "down_coordinate": [
+                10.302222222222209,
+                10.166666666666668
+            ],
+            "up_coordinate": [
+                10.302222222222209,
+                10.166666666666668
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": 128,
+            "end_frame": 267,
+            "action_type": "type",
+            "down_coordinate": null,
+            "up_coordinate": null,
+            "type_word": "N group"
+        },
+        {
+            "start_frame": 268,
+            "end_frame": 282,
+            "action_type": "click",
+            "down_coordinate": [
+                15.354666666666652,
+                12.166666666666668
+            ],
+            "up_coordinate": [
+                15.354666666666652,
+                12.166666666666668
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": 351,
+            "end_frame": 381,
+            "action_type": "swipe",
+            "down_coordinate": [
+                40.255999999999986,
+                63.666666666666565
+            ],
+            "up_coordinate": [
+                40.255999999999695,
+                10
+            ],
+            "type_word": null
+        }
+    ],
+    "BDA_hw1_A_Ubereat.mp4": [
+        {
+            "start_frame": 18,
+            "end_frame": 32,
+            "action_type": "click",
+            "down_coordinate": [
+                14.993777777777764,
+                7.000000000000001
+            ],
+            "up_coordinate": [
+                14.993777777777764,
+                7.000000000000001
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": 59,
+            "end_frame": 286,
+            "action_type": "type",
+            "down_coordinate": null,
+            "up_coordinate": null,
+            "type_word": "mcdonald"
+        },
+        {
+            "start_frame": 424,
+            "end_frame": 447,
+            "action_type": "click",
+            "down_coordinate": [
+                14.993777777777764,
+                19
+            ],
+            "up_coordinate": [
+                14.993777777777764,
+                19
+            ],
+            "type_word": null
+        },
+        {
+            "start_frame": 551,
+            "end_frame": 593,
+            "action_type": "swipe",
+            "down_coordinate": [
+                44.22577777777779,
+                75.16666666666708
+            ],
+            "up_coordinate": [
+                44.22577777777709,
+                10
+            ],
+            "type_word": null
+        }
+    ]
+}
